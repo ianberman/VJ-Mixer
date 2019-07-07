@@ -7,3 +7,4 @@ Quickstart: press 1 to play both audio files and press toggle to play both video
 Route buf1/2 to loud/env/yin + dacL/R. Then experiment with video mixer routing!
 
 There are more instructions in the patch.
+xx

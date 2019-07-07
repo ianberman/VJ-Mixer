@@ -3,7 +3,7 @@ An interface for modular control of realtime reactive VJ interface. Uses 2 audio
 
 Requires the yin~ external (included, install like any other external)
 
-There are instructions in the patch.
-
 Quickstart: press 1 to play both audio files and press toggle to play both video files.
 Route buf1/2 to loud/env/yin + dacL/R. Then experiment with video mixer routing!
+
+There are more instructions in the patch.
